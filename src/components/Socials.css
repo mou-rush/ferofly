@@ -1,0 +1,14 @@
+.sticky-sidebar {
+    background: #ffffff;
+    padding: 200px 0px 60px 10px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    position: fixed;
+    right: 0;
+    width: 9%;
+    float: right;
+  }
+  .sticky-sidebar a{
+  display: flex;
+  border-bottom: 20px solid transparent;
+  }

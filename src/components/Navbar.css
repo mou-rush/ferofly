@@ -1,0 +1,46 @@
+
+ul {
+    position:fixed;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin:auto;
+    padding: 24px;
+    background-color: #242323;
+    display:flex;
+    justify-content:center;
+    right: 0;
+  }
+  
+  li a {
+    color: #f5f5f5;
+    padding: 0px 30px;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: brandon-grot-w01-light, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    transition: .10s linear;
+  }
+  
+  li a:hover {
+    color: gray;
+  }
+  .booking-btn{
+    background-color: #242323;
+    color: #ffffff;
+    padding: 5px 32px;
+    border: 1px solid #ffffff;
+    font-family: brandon-grot-w01-light, sans-serif;
+    font-style:normal;
+    transition: .10s background-color;
+  }
+
+  .booking-btn:hover {
+    background-color:  #ffffff;
+    color: #242323;
+    cursor: pointer;
+  }
+
+  
